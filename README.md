@@ -13,10 +13,10 @@ I am NOT responsible for any demages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
 
 ---
-|[Download]()|[Video]()|[Telegram]()|[QQ]()|
-|:------------- |:-------------:|:-------------:|
-|[下载地址]()|[视频演示]()|[飞机交流]()|[腾讯QQ]()|
-|:------------- |:-------------:|:-------------:|
+|[下载地址]()|[视频演示]()|[电报交流]()|[腾讯QQ]()|
+|:------------- |:-------------:|:-------------:|:-------------:|
+|[Download]()|[Video]()|[Telegram]()|[tencentQQ]()|
+
 # 功能展示
 
 ## 功能介绍
