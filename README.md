@@ -18,6 +18,8 @@ I do NOT support any malicious use of this software. This is for educational pur
 |[Download]()|[Video]()|[Telegram]()|[tencentQQ]()|
 
 # 功能展示
+![20230212135013](https://user-images.githubusercontent.com/62233800/218300473-b0d01877-3840-49db-a430-56e1062143f9.jpg)
+![20230212135235](https://user-images.githubusercontent.com/62233800/218300474-9ae2fc58-79b3-41a8-8ef6-fa5ad783d7ed.jpg)
 
 ## 功能介绍
 💠𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
