@@ -13,9 +13,9 @@ I am NOT responsible for any demages caused by this software to anyone.
 I do NOT support any malicious use of this software. This is for educational purposes only.
 
 ---
-|[下载地址]()|[视频演示]()|[电报交流](https://t.me/+tOnWfD5Pfks5NTE1)|[腾讯QQ](https://jq.qq.com/?_wv=1027&k=wSFyixbk)|
+|[下载地址]()|[视频演示]()|[电报交流](https://t.me/+KDNcYxey-L00ODRl)|[腾讯QQ](https://jq.qq.com/?_wv=1027&k=wSFyixbk)|
 |:------------- |:-------------:|:-------------:|:-------------:|
-|[Download]()|[Video]()|[Telegram](https://t.me/+tOnWfD5Pfks5NTE1)|[tencentQQ](https://jq.qq.com/?_wv=1027&k=wSFyixbk)|
+|[Download]()|[Video]()|[Telegram](https://t.me/+KDNcYxey-L00ODRl)|[tencentQQ](https://jq.qq.com/?_wv=1027&k=wSFyixbk)|
 
 # 功能展示
 ![20230212135013](https://user-images.githubusercontent.com/62233800/218300473-b0d01877-3840-49db-a430-56e1062143f9.jpg)
